@@ -1,0 +1,72 @@
+h3{
+    color: blue;
+}
+
+.pregunta{
+    width: 60%;
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    margin: auto;
+    border: solid;
+    border-color: red;
+}
+.preguntaContestada{
+    width: 60%;
+    background-color: gray;
+    color: black;
+    text-align: center;
+    font-size: 12px;
+    margin: auto;
+    padding-top: 1%;
+    margin-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 1%;
+}
+.respuesta{
+    width: 60%;
+    background-color: moccasin;
+    color: blue;
+    text-align: center;
+    margin: auto;
+    border: solid;
+    border-color: blue;
+}
+.respuestaContestada{
+    width: 85%;
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+    margin: auto;
+    border: solid;
+    border-color: black;
+    font-size: 12px;
+    padding: 3%;
+}
+.cajaRespuesta{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: gray;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
